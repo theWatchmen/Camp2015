@@ -2,9 +2,9 @@
 
 I'm planning the first Code Jockey summer camp for summer 2015.
 
-Location: tbd
+Location: Europe: Adriatic Sea, or Lithuania, or other tbd
 
-Date: tbd
+Date: July or August 2015
 
 Starring: tbd
 
