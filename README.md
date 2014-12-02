@@ -12,6 +12,10 @@ Sponsors: tbd
 
 Entrance fee: tbd
 
+Format: main stage + village, over long summer weekend.
+
+Keywords: family-friendly, code jockeys, camping, outdoors, sea, sun.
+
 Director: Pieter Hintjens
 
 To contribute to this project please send a pull request.
