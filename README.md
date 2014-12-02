@@ -1,4 +1,4 @@
-+ Code Jockey Camp 2015
+# Code Jockey Camp 2015
 
 I'm planning the first Code Jockey summer camp for summer 2015.
 
